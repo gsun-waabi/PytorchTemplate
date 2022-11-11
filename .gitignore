@@ -1,0 +1,10 @@
+data/*
+core/__pycache__/*
+.ipynb_checkpoints
+__pycache__/
+expr/
+*ipynb
+misc/
+*.png
+*.exr
+*.jpg
